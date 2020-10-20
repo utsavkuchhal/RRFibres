@@ -395,7 +395,7 @@ p.logo_w3l_agile_caption {
 
 /*-- //banner-top --*/ 
 .banner-1{
-	background: url(../images/glass.jpg) no-repeat 0px -200px;
+	background: url(../images/poly.jpg) no-repeat 0px -200px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -1688,7 +1688,7 @@ text-align:center;
 /*-- Counter --*/
 .stats {
     padding: 8em 0;
-	background: url(../images/st2.jpg) no-repeat 0px 0px;
+	background: url(../images/poly3.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
